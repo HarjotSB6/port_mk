@@ -1,0 +1,9 @@
+site_name: My Portfolio
+site_url: https://harsb.tailb0a40f.ts.net/portfolio/
+use_directory_urls: false
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Resume: resume.md
